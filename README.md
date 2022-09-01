@@ -1,0 +1,1 @@
+This project repository is about the use of the various shell basics commands
