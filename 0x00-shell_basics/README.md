@@ -1,1 +1,1 @@
-The 0-current_working_directory script prints the absolute path name of the current working directory
+This script is used to print the absolute path name ofthe current working director
